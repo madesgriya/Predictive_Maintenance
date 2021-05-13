@@ -1,2 +1,2 @@
 # Predictive_Maintenance
-predictive analysis for mechanical equipment mainteance
+predictive analysis for mechanical equipment maintenace
